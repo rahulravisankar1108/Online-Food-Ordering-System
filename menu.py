@@ -1,4 +1,4 @@
-from config import *
+from config import * 
 #from main import *
 from pprint import pprint
 from random import randint

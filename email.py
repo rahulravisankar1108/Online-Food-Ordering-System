@@ -1,4 +1,4 @@
-import smtplib
+import smtplib 
 from menu import *
 from config import *
 def email(orderID,PrivateID,total,cus_name,tax,cus_email):
