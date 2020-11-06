@@ -7,7 +7,7 @@ _Unlike the other food ordering application the customer will order food from a 
 
 ___The difference is the customer need not to go to the shop and order the food after going to the shop as it leads to run out of time for the customers. Instead, the customer will order the food before the customer arrives to that shop to cut down the waiting time.___  
  
- The customer will have an ORDER ID and PRIVATE CODE in their confirmation Mail, after confirming the same, the ordered food can be given to the customer. 
+ The customer will have an **ORDER ID** and **PRIVATE CODE** in their confirmation Mail, after confirming the same, the ordered food can be given to the customer. 
  
  ## Requirements
  
