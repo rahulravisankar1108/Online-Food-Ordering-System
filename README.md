@@ -8,13 +8,13 @@ ___The difference is the customer need not to go to the shop and order the food 
  
  ## Requirements
  
-  * [Python3](https://www.python.org/downloads/ "Python3")
+  * [Python3](https://www.python.org/downloads/)
  
-  * [PyMongo] (https://pypi.org/project/pymongo/ "PyMongo")
+  * [PyMongo] (https://pypi.org/project/pymongo/)
   
-  * [MongoDB Compass] (https://www.mongodb.com/try/download/community "MongoDB Compass)
+  * [MongoDB Compass] (https://www.mongodb.com/try/download/community)
   
-  * [Hashlib] (https://docs.python.org/2/library/hashlib.html "Hashlib")
+  * [Hashlib] (https://docs.python.org/2/library/hashlib.html)
   
  
  ## Technology Stack
